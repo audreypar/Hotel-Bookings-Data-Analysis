@@ -1,7 +1,9 @@
-# Hotel Bookings Data Analysis
+# :hotel: Hotel Bookings Data Analysis
 
 ## Background
-Booking demand information from 2015 to 2017 of two types of hotels in Portugal was collected. There are over 110k rows of data on total with information such as booking date, number of people for a booking, average daily rate etc.
+Booking demand information from 2015 to 2017 of two types of hotels in Portugal was collected. There are over 110k rows of data on total with information such as booking date, number of people for a booking, average daily rate etc.  
+
+Jump right to the [project](https://github.com/audreypar/Hotel_Bookings_Data_Analysis/blob/main/Hotel_Bookings.ipynb) to view it from start to finish.
 
 ### Data Set  
 The hotel bookings demand data set can be found on [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download). For more detailed information about the data set visit [Science Direct](https://www.sciencedirect.com/science/article/pii/S2352340918315191?via%3Dihub).
@@ -29,6 +31,10 @@ The goal in this project is to answer various business questions about these two
 
 9- How often are the rooms the guests were assigned the same as the ones they reserved?  
 
-## Tools
+## Tools and Skills
  - Python: Pandas, Matplotlib, Seaborn  
  - Jupyter Notebook
+ - Data Cleaning, Data Visualization, Data Analysis, Statistics 
+ 
+ ## Notes  
+ Internal links in jupyter notebook do not work when rendered on Github but they will work if you choose to dowload it on your desktop.
