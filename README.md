@@ -3,7 +3,7 @@
 ## Background
 Booking demand information from 2015 to 2017 of two types of hotels in Portugal was collected. There are over 110k rows of data on total with information such as booking date, number of people for a booking, average daily rate etc.  
 
-Jump right to the [project](https://github.com/audreypar/Hotel_Bookings_Data_Analysis/blob/main/Hotel_Bookings.ipynb) to view it from start to finish.
+Jump right to the [jupyter notebook](https://github.com/audreypar/Hotel_Bookings_Data_Analysis/blob/main/Hotel_Bookings.ipynb) to view my project from start to finish.
 
 ### Data Set  
 The hotel bookings demand data set can be found on [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download). For more detailed information about the data set visit [Science Direct](https://www.sciencedirect.com/science/article/pii/S2352340918315191?via%3Dihub).
