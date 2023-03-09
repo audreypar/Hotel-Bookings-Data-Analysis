@@ -1,12 +1,13 @@
 # Hotel Bookings Data Analysis
 
 ## Background
+Booking demand information from 2015 to 2017 of two types of hotels in Portugal was collected. There are over 110k rows of data on total with information such as booking date, number of people for a booking, average daily rate etc.
 
 ### Data Set  
 The hotel bookings demand data set can be found on [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download). For more detailed information about the data set visit [Science Direct](https://www.sciencedirect.com/science/article/pii/S2352340918315191?via%3Dihub).
 
 ## Objective
-The goal in this project is to answer various business questions about these two hotels in Portugal and make recommendations about how to 
+The goal in this project is to answer various business questions about these two hotels in Portugal. Based on our findings, we will make recommendations to the owner of these hotels with regards to how they can increase revenue and improve service.
 
 ## Business Questions  
 
@@ -29,10 +30,5 @@ The goal in this project is to answer various business questions about these two
 9- How often are the rooms the guests were assigned the same as the ones they reserved?  
 
 ## Tools
-
-
-The purpose of this project is to answer various business questions based on a hotel booking demand data set.
-
-I used python with Pandas, Matplotlib, Seaborn and Numpy libraries for the entirety of the project.
-
-You can simply click on the .ipynb file and it will guide you from start to finish.
+ - Python: Pandas, Matplotlib, Seaborn  
+ - Jupyter Notebook
